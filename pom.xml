@@ -61,7 +61,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                hu.petrik.calculatorproject.calculator/hu.petrik.calculatorproject.calculator.HelloApplication
+                                hu.petrik.calculatorproject.calculator/hu.petrik.calculatorproject.calculator.App
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
